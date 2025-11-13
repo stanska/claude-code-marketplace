@@ -1,0 +1,51 @@
+{
+  "name": "claude-code-marketplace",
+  "owner": {
+    "name": "Claude Code Commands Community",
+    "email": "hello@claudecodecommands.com"
+  },
+  "metadata": {
+    "description": "Community-driven marketplace for Claude Code commands and plugins",
+    "version": "1.0.0",
+    "homepage": "https://claudecodecommands.directory"
+  },
+  "plugins": [
+    {
+      "name": "experienced-engineer",
+      "source": "./plugins/experienced-engineer",
+      "description": "Comprehensive plugin with specialized engineering subagents (API Architect, Security Specialist, Code Quality Reviewer, etc.) and productivity commands for software teams",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anand Tyagi",
+        "url": "https://github.com/ananddtyagi"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/experienced-engineer",
+      "keywords": [
+        "engineering",
+        "team",
+        "productivity",
+        "code-quality",
+        "best-practices",
+        "agents",
+        "subagents"
+      ]
+    },
+    {
+      "name": "analyze-codebase",
+      "source": "./plugins/analyze-codebase",
+      "description": "Generate comprehensive analysis and documentation of entire codebase",
+      "version": "1.0.0",
+      "author": {
+        "name": " Anand Tyagi",
+        "url": "https://github.com/ananddtyagi"
+      },
+      "category": "explore",
+      "homepage": "https://claudecodecommands.directory/commands/analyze-codebase",
+      "keywords": [
+        "explore",
+        "plan"
+      ]
+    }
+  ]
+}
