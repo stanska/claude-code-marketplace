@@ -7,7 +7,7 @@ Community-driven marketplace for Claude Code commands and plugins.
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add ananddtyagi/claude-code-marketplace
+/plugin marketplace add stanska/claude-code-marketplace
 ```
 
 Then browse and install individual plugins (commands or agents):

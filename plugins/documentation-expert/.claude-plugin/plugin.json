@@ -1,0 +1,12 @@
+{
+  "name": "experienced-engineer",
+  "description": "A comprehensive plugin with specialized documentation expert subagent",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stanka Dalekova",
+    "url": "https://github.com/stanska"
+  },
+  "keywords": [
+    "documentation"
+  ]
+}

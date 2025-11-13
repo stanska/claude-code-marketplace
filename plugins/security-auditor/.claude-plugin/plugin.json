@@ -1,0 +1,15 @@
+{
+  "name": "security-auditor",
+  "description": "A comprehensive plugin with security auditor subagent",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stanka Dalekova",
+    "url": "https://github.com/stanska"
+  },
+  "keywords": [
+    "security",
+    "vulnerability",
+    "weakness",
+    "injection"
+  ]
+}

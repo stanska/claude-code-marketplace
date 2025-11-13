@@ -32,19 +32,35 @@
       ]
     },
     {
-      "name": "analyze-codebase",
-      "source": "./plugins/analyze-codebase",
-      "description": "Generate comprehensive analysis and documentation of entire codebase",
+      "name": "documentation-expert",
+      "source": "./plugins/documentation-expert",
+      "description": "Improve, and maintain project documentation. Specializes in technical writing.",
       "version": "1.0.0",
       "author": {
-        "name": " Anand Tyagi",
-        "url": "https://github.com/ananddtyagi"
+        "name": "Stanka Dalekova",
+        "url": "https://github.com/stanska"
       },
-      "category": "explore",
-      "homepage": "https://claudecodecommands.directory/commands/analyze-codebase",
+      "category": "documentation",
       "keywords": [
         "explore",
-        "plan"
+        "document",
+        "analyze"
+      ]
+    },
+    {
+      "name": "security-auditor",
+      "source": "./plugins/security-auditor",
+      "description": "Review code for vulnerabilities, implement secure authentication, and ensure OWASP compliance.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Stanka Dalekova",
+        "url": "https://github.com/stanska"
+      },
+      "category": "documentation",
+      "keywords": [
+        "explore",
+        "document",
+        "analyze"
       ]
     }
   ]
