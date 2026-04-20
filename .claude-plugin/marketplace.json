@@ -11,6 +11,24 @@
   },
   "plugins": [
     {
+      "name": "plugin-security-scanner",
+      "source": "./plugins/plugin-security-scanner",
+      "description": "Security scan Claude Code plugins, skills, MCP servers, and hooks for prompt injection, tool poisoning, silent exfiltration, credential harvesting, cross-MCP contamination, and supply-chain risks. Accepts a plugin folder, GitHub repo (owner/name or URL), single skill/MCP file, or pasted content.",
+      "version": "0.1.0",
+      "category": "security",
+      "keywords": [
+        "security",
+        "scan",
+        "plugin",
+        "skill",
+        "mcp",
+        "hook",
+        "prompt-injection",
+        "supply-chain",
+        "audit"
+      ]
+    },
+    {
       "name": "experienced-engineer",
       "source": "./plugins/experienced-engineer",
       "description": "Comprehensive plugin with specialized engineering subagents (API Architect, Security Specialist, Code Quality Reviewer, etc.) and productivity commands for software teams",

@@ -1,0 +1,15 @@
+{
+  "name": "plugin-security-scanner",
+  "description": "Security scan Claude Code plugins, skills, MCP servers, and hooks for prompt injection, tool poisoning, exfiltration, credential harvesting, and supply-chain risks",
+  "version": "0.1.0",
+  "keywords": [
+    "security",
+    "scan",
+    "plugin",
+    "skill",
+    "mcp",
+    "hook",
+    "prompt-injection",
+    "supply-chain"
+  ]
+}
